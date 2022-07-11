@@ -1,0 +1,5 @@
+Solution
+JSON (JavaScript Object Notation) is a lightweight, open standard, data-interchange format. 
+It is easy to read and write for humans. It is used primarily to transmit data between web application 
+and server. 
+The given example asynchronously convert directory tree structure into a JavaScript object.
